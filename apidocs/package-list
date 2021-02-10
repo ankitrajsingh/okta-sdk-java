@@ -7,7 +7,6 @@ com.okta.sdk.error.authc
 com.okta.sdk.resource
 com.okta.sdk.resource.application
 com.okta.sdk.resource.authorization.server
-com.okta.sdk.resource.authorization.server.policy
 com.okta.sdk.resource.common
 com.okta.sdk.resource.event.hook
 com.okta.sdk.resource.feature
